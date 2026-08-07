@@ -2,7 +2,7 @@
 
 **自動運転アルゴリズムを開発するプラットフォーム / A platform to develop autonomous driving algorithms**
 
-[Website](https://www.rumicar.com/) ・ [シミュレータ / Simulator](https://www.rumicar.com/simulator/) ・ [YouTube](https://www.youtube.com/channel/UCVg3CBSVBcc_00FdC6q2wDg/featured) ・ [connpass](https://rumicar.connpass.com/) ・ [Facebook](https://www.facebook.com/groups/rumicar) ・ [X](https://x.com/lkjfdskj)
+[Website](https://www.rumicar.com/) ・ [シミュレータ / Simulator](https://www.rumicar.com/simulator/) ・ [YouTube](https://www.youtube.com/channel/UCVg3CBSVBcc_00FdC6q2wDg/featured) ・ [connpass](https://rumicar.connpass.com/) ・ [Facebook](https://www.facebook.com/groups/rumicar) ・ [X](https://x.com/RumikaChiba)
 
 ---
 
