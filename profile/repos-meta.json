@@ -1,0 +1,13 @@
+{
+  "_comment": "組織トップ(.github/profile/README.md)と本体(RumiCar/README*.md)の『リポジトリ表』の表示順と説明。infra/tools/sync-github-readmes.py が毎日この内容+公開リポジトリ実在一覧から表を再生成する。ここに無い公開リポジトリも自動で表に載る(GitHubのDescription使用)。非公開リポジトリと .github は載らない。order小=上。",
+  "repos": {
+    "RumiCar":            { "order": 1,  "ja": "本体。サンプルプログラム、ハンズオン教材(PDF)、結線図、開発資料、シミュレータ用プログラム/コース", "en": "Main repository: sample programs, hands-on textbooks (PDF), wiring diagrams, build docs, simulator programs and courses" },
+    "RumiCar-lib":        { "order": 2,  "ja": "Arduino用RumiCarライブラリ(Arduino Library Manager登録済み)", "en": "Arduino library for RumiCar (published to the Arduino Library Manager)" },
+    "RumiCar-Simulator":  { "order": 3,  "ja": "ブラウザで動く自動運転シミュレータ(インストール不要・実機互換)", "en": "Browser-based autonomous-driving simulator (no install, real-car compatible)" },
+    "RumiCar-PhotoStrip": { "order": 4,  "ja": "通信量にやさしい写真ストリップ(どのサイトでも使える汎用Web部品・MIT)", "en": "Bandwidth-friendly photo strip for any website (generic web component, MIT)" },
+    "RumiCarRos":         { "order": 5,  "ja": "ROS 2対応の実装", "en": "ROS 2 support for RumiCar" },
+    "RumiCarEX":          { "order": 90, "ja": "関連プロジェクトのfork(派生車体)", "en": "Fork of a related project (derived vehicle)" },
+    "micro-airc":         { "order": 91, "ja": "関連プロジェクトのfork(AI RCカー)", "en": "Fork of a related project (AI RC car)" },
+    "rumicar-duck":       { "order": 92, "ja": "関連プロジェクトのfork(アヒル型走行車)", "en": "Fork of a related project (duck-style car)" }
+  }
+}
