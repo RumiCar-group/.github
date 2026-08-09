@@ -33,12 +33,22 @@ RumiCar は、**誰もが自動運転のプログラムを作れる環境**を�
 
 ### リポジトリ
 
-| リポジトリ | 内容 |
-|---|---|
-| [**RumiCar**](https://github.com/RumiCar-group/RumiCar) | 本体リポジトリ。サンプルプログラム、ハンズオン用テキスト、結線図、開発用資料、シミュレータ用プログラム／コース |
-| [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Arduino 用 RumiCar ライブラリのソースコード（Arduino Library Manager 登録済み） |
-| [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS 対応の実装 |
-| [RumiCarEX](https://github.com/RumiCar-group/RumiCarEX) / [micro-airc](https://github.com/RumiCar-group/micro-airc) / [rumicar-duck](https://github.com/RumiCar-group/rumicar-duck) | 関連プロジェクトの fork（派生車体・AI RC カーなど） |
+<!-- AUTO-REPOS-JA:START -->
+<!-- この表は自動生成です。手で編集しないでください(毎日、公開リポジトリ一覧から再生成されます)。
+     説明文・表示順の変更は .github リポジトリの profile/repos-meta.json を編集してください。
+     This table is auto-generated daily from the org's public repositories.
+     Edit profile/repos-meta.json in the .github repository to change descriptions/order. -->
+| リポジトリ | 内容 | ★ | 更新 |
+|---|---|---|---|
+| [**RumiCar**](https://github.com/RumiCar-group/RumiCar) | 本体。サンプルプログラム、ハンズオン教材(PDF)、結線図、開発資料、シミュレータ用プログラム/コース | 35 | 2026-08-07 |
+| [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Arduino用RumiCarライブラリ(Arduino Library Manager登録済み) | - | 2026-06-22 |
+| [**RumiCar-Simulator**](https://github.com/RumiCar-group/RumiCar-Simulator) | ブラウザで動く自動運転シミュレータ(インストール不要・実機互換) | - | 2026-08-07 |
+| [**RumiCar-PhotoStrip**](https://github.com/RumiCar-group/RumiCar-PhotoStrip) | 通信量にやさしい写真ストリップ(どのサイトでも使える汎用Web部品・MIT) | - | 2026-08-09 |
+| [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS 2対応の実装 | 3 | 2026-05-10 |
+| [**RumiCarEX**](https://github.com/RumiCar-group/RumiCarEX) | 関連プロジェクトのfork(派生車体) | - | 2020-09-05 |
+| [**micro-airc**](https://github.com/RumiCar-group/micro-airc) | 関連プロジェクトのfork(AI RCカー) | 1 | 2020-07-19 |
+| [**rumicar-duck**](https://github.com/RumiCar-group/rumicar-duck) | 関連プロジェクトのfork(アヒル型走行車) | - | 2020-04-25 |
+<!-- AUTO-REPOS-JA:END -->
 
 ### ハードウェア構成
 
@@ -101,12 +111,22 @@ If you have a vehicle, install the library entirely from within the Arduino IDE:
 
 ### Repositories
 
-| Repository | Description |
-|---|---|
-| [**RumiCar**](https://github.com/RumiCar-group/RumiCar) | Main repository: sample programs, hands-on materials, wiring diagrams, build documentation, simulator programs and courses |
-| [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Source of the Arduino RumiCar library (published to the Arduino Library Manager) |
-| [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS implementation |
-| [RumiCarEX](https://github.com/RumiCar-group/RumiCarEX) / [micro-airc](https://github.com/RumiCar-group/micro-airc) / [rumicar-duck](https://github.com/RumiCar-group/rumicar-duck) | Forks of related community projects |
+<!-- AUTO-REPOS-EN:START -->
+<!-- この表は自動生成です。手で編集しないでください(毎日、公開リポジトリ一覧から再生成されます)。
+     説明文・表示順の変更は .github リポジトリの profile/repos-meta.json を編集してください。
+     This table is auto-generated daily from the org's public repositories.
+     Edit profile/repos-meta.json in the .github repository to change descriptions/order. -->
+| Repository | Description | ★ | Updated |
+|---|---|---|---|
+| [**RumiCar**](https://github.com/RumiCar-group/RumiCar) | Main repository: sample programs, hands-on textbooks (PDF), wiring diagrams, build docs, simulator programs and courses | 35 | 2026-08-07 |
+| [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Arduino library for RumiCar (published to the Arduino Library Manager) | - | 2026-06-22 |
+| [**RumiCar-Simulator**](https://github.com/RumiCar-group/RumiCar-Simulator) | Browser-based autonomous-driving simulator (no install, real-car compatible) | - | 2026-08-07 |
+| [**RumiCar-PhotoStrip**](https://github.com/RumiCar-group/RumiCar-PhotoStrip) | Bandwidth-friendly photo strip for any website (generic web component, MIT) | - | 2026-08-09 |
+| [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS 2 support for RumiCar | 3 | 2026-05-10 |
+| [**RumiCarEX**](https://github.com/RumiCar-group/RumiCarEX) | Fork of a related project (derived vehicle) | - | 2020-09-05 |
+| [**micro-airc**](https://github.com/RumiCar-group/micro-airc) | Fork of a related project (AI RC car) | 1 | 2020-07-19 |
+| [**rumicar-duck**](https://github.com/RumiCar-group/rumicar-duck) | Fork of a related project (duck-style car) | - | 2020-04-25 |
+<!-- AUTO-REPOS-EN:END -->
 
 ### Hardware
 
