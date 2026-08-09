@@ -22,7 +22,7 @@
       "en": "Bandwidth-friendly photo strip for any website (generic web component, MIT)"
     },
     "RumiCarRos": {
-      "order": 4,
+      "order": 5,
       "ja": "ROS 2対応の実装",
       "en": "ROS 2 support for RumiCar"
     },
@@ -40,6 +40,11 @@
       "order": 92,
       "ja": "関連プロジェクトのfork(アヒル型走行車)",
       "en": "Fork of a related project (duck-style car)"
+    },
+    "RumiCar-VideoLoop": {
+      "order": 4,
+      "ja": "動画ダイジェスト小窓(無音ティーザーをランダム連続再生・クリックで本編へ・MIT)",
+      "en": "Video digest window: silent teasers in random rotation, click through to the full video (MIT)"
     }
   }
 }
