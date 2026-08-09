@@ -2,7 +2,7 @@
 
 **自動運転アルゴリズムを開発するプラットフォーム / A platform to develop autonomous driving algorithms**
 
-[Website](https://www.rumicar.com/) ・ [シミュレータ / Simulator](https://www.rumicar.com/simulator/) ・ [YouTube](https://www.youtube.com/channel/UCVg3CBSVBcc_00FdC6q2wDg/featured) ・ [connpass](https://rumicar.connpass.com/) ・ [Facebook](https://www.facebook.com/groups/rumicar) ・ [X](https://x.com/RumikaChiba)
+[Website](https://www.rumicar.com/) ・ [シミュレータ / Simulator](https://www.rumicar.com/simulator/) ・ [YouTube](https://www.youtube.com/channel/UCVg3CBSVBcc_00FdC6q2wDg/featured) ・ [connpass](https://rumicar.connpass.com/) ・ [Facebookページ / Page](https://www.facebook.com/rumicarcrz) ・ [Facebookグループ / Group](https://www.facebook.com/groups/rumicar) ・ [X](https://x.com/RumikaChiba)
 
 RumiCar は、**誰もが自動運転のプログラムを作れる環境**を目指すオープンな開発プラットフォームです。手のひらサイズの実車とブラウザ上のシミュレータの両方で、同じ考え方のアルゴリズムを開発できます（ソフトウェア・ハードウェア・サービスの3本柱）。**実機がなくても、[シミュレータ](https://www.rumicar.com/simulator/)でいますぐ始められます。** サンプルプログラム・ハンズオン教材・作り方などの詳細は [RumiCar 本体リポジトリ](https://github.com/RumiCar-group/RumiCar)へ。
 
