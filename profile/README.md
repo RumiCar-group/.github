@@ -20,6 +20,7 @@ RumiCar is an open platform with a single goal: **to let anyone write autonomous
 | [**RumiCar**](https://github.com/RumiCar-group/RumiCar) | 本体。サンプルプログラム、ハンズオン教材(PDF)、結線図、開発資料、シミュレータ用プログラム/コース | 35 |
 | [**RumiCar-Simulator**](https://github.com/RumiCar-group/RumiCar-Simulator) | ブラウザで動く自動運転シミュレータ(インストール不要・実機互換) | - |
 | [**RumiCar-PhotoStrip**](https://github.com/RumiCar-group/RumiCar-PhotoStrip) | 通信量にやさしい写真ストリップ(どのサイトでも使える汎用Web部品・MIT) | - |
+| [**RumiCar-VideoLoop**](https://github.com/RumiCar-group/RumiCar-VideoLoop) | 動画ダイジェスト小窓(無音ティーザーをランダム連続再生・クリックで本編へ・MIT) | - |
 | [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS 2対応の実装 | 3 |
 | [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Arduinoライブラリのソースコード(導入はArduino IDEのライブラリマネージャから。ここからのダウンロードは不要) | - |
 | [**RumiCarEX**](https://github.com/RumiCar-group/RumiCarEX) | 関連プロジェクトのfork(派生車体) | - |
@@ -39,6 +40,7 @@ RumiCar is an open platform with a single goal: **to let anyone write autonomous
 | [**RumiCar**](https://github.com/RumiCar-group/RumiCar) | Main repository: sample programs, hands-on textbooks (PDF), wiring diagrams, build docs, simulator programs and courses | 35 |
 | [**RumiCar-Simulator**](https://github.com/RumiCar-group/RumiCar-Simulator) | Browser-based autonomous-driving simulator (no install, real-car compatible) | - |
 | [**RumiCar-PhotoStrip**](https://github.com/RumiCar-group/RumiCar-PhotoStrip) | Bandwidth-friendly photo strip for any website (generic web component, MIT) | - |
+| [**RumiCar-VideoLoop**](https://github.com/RumiCar-group/RumiCar-VideoLoop) | Video digest window: silent teasers in random rotation, click through to the full video (MIT) | - |
 | [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS 2 support for RumiCar | 3 |
 | [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Source of the Arduino library (install via the Arduino IDE Library Manager - no need to download from here) | - |
 | [**RumiCarEX**](https://github.com/RumiCar-group/RumiCarEX) | Fork of a related project (derived vehicle) | - |
