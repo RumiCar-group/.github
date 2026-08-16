@@ -24,6 +24,7 @@ RumiCar is an open platform with a single goal: **to let anyone write autonomous
 | [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS 2対応の実装 | 3 |
 | [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Arduinoライブラリのソースコード(導入はArduino IDEのライブラリマネージャから。ここからのダウンロードは不要) | - |
 | [**RumiCar-AutoPost-Guide**](https://github.com/RumiCar-group/RumiCar-AutoPost-Guide) | Publish a WordPress post; What's New and the Facebook Page update automatically. A bilingual methods guide (ja/en) — setup, pitfalls, and log-based verification. | - |
+| [**RumiCar-ReleaseNotes-Guide**](https://github.com/RumiCar-group/RumiCar-ReleaseNotes-Guide) | Publish a GitHub Release, get paired JA/EN WordPress articles automatically — a methods guide with the reference implementation from rumicar.com | - |
 | [**RumiCarEX**](https://github.com/RumiCar-group/RumiCarEX) | 関連プロジェクトのfork(派生車体) | - |
 | [**micro-airc**](https://github.com/RumiCar-group/micro-airc) | 関連プロジェクトのfork(AI RCカー) | 1 |
 | [**rumicar-duck**](https://github.com/RumiCar-group/rumicar-duck) | 関連プロジェクトのfork(アヒル型走行車) | - |
@@ -45,6 +46,7 @@ RumiCar is an open platform with a single goal: **to let anyone write autonomous
 | [**RumiCarRos**](https://github.com/RumiCar-group/RumiCarRos) | ROS 2 support for RumiCar | 3 |
 | [**RumiCar-lib**](https://github.com/RumiCar-group/RumiCar-lib) | Source of the Arduino library (install via the Arduino IDE Library Manager - no need to download from here) | - |
 | [**RumiCar-AutoPost-Guide**](https://github.com/RumiCar-group/RumiCar-AutoPost-Guide) | Publish a WordPress post; What's New and the Facebook Page update automatically. A bilingual methods guide (ja/en) — setup, pitfalls, and log-based verification. | - |
+| [**RumiCar-ReleaseNotes-Guide**](https://github.com/RumiCar-group/RumiCar-ReleaseNotes-Guide) | Publish a GitHub Release, get paired JA/EN WordPress articles automatically — a methods guide with the reference implementation from rumicar.com | - |
 | [**RumiCarEX**](https://github.com/RumiCar-group/RumiCarEX) | Fork of a related project (derived vehicle) | - |
 | [**micro-airc**](https://github.com/RumiCar-group/micro-airc) | Fork of a related project (AI RC car) | 1 |
 | [**rumicar-duck**](https://github.com/RumiCar-group/rumicar-duck) | Fork of a related project (duck-style car) | - |
